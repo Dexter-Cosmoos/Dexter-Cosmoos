@@ -1,9 +1,13 @@
+<link rel="stylesheet" href="styles.css">
+
 <div>
- <img src='./images/banner.png' alt=banner>
+ <img src='./assests/images/banner.png' alt=banner>
 <div>
 
-
-<h1 align="center" font-size="30 px"> 👋 Hi, I'm Nomaan Ansari! </h1>
+<h1 align="center">
+ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="20px">
+ </a> Hi, I'm Nomaan Ansari!
+</h1>
 
 
 I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
@@ -14,58 +18,36 @@ I'm a **Data Analyst** passionate about turning raw data into actionable insight
 - 💡 Fun fact: [A Fun Fact About Yourself]
 
 
-Feel free to explore my work, connect with me, or just say hi! 😊
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/your-favorite-gif.gif" alt="Fun GIF" width="300"/>
-</p>
-
-
-## 🛠️ Skills 
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-</div>
-
-
-## 📜 Certifications
-
-- **Google Data Analytics Professional Certificate** - [Coursera](https://www.coursera.org/)
-- **Data Science Specialization** - [Johns Hopkins University, Coursera](https://www.coursera.org/)
-- **Tableau Desktop Specialist Certification** - [Tableau](https://www.tableau.com/)
-- **AWS Certified Data Analytics Specialty** - [AWS](https://aws.amazon.com/)
-
-
-## 🤝 Let's Connect!
-
-I'm always open to collaboration, feedback, or just a friendly chat! You can reach me via:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-
-Or feel free to open an issue or PR on any of my repositories!
-
-
-## 📣 Daily Motivation
-
-> "Data is the new oil." – Clive Humby
+Feel free to explore my work, connect with me, or just say hello!
 
 ---
 
-## 📈 Profile Views
+Technolgies
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+
+  <div style="display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: white; border-radius: 50%; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img src="./assests/ico/Figma.svg" alt="Figma" width="30">
+  </div>
+
+  <div style="display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: white; border-radius: 50%; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img src="./assests/ico/gitlab.svg" alt="Gitlab" width="30">
+  </div>
+  
+  <div style="display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: white; border-radius: 50%; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img src="./assests/ico/Excel.svg" alt="Github" width="30">
+  </div>
+
+  <div style="display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: white; border-radius: 50%; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+   <img src="./assests/ico/Intellij IDEA.svg" alt="Github" width="30">
+  </div>
+
+</div>
+
+---
+
+## 👀 ‖ Profile Views
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
-  
- ![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
 </div>
