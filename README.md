@@ -25,15 +25,17 @@ Feel free to explore my work, connect with me, or just say hello!
 Technolgies
 
 <div style="display: flex; justify-content: center; gap: 15px;">
-
   <img src="./assests/ico/Figma.svg" alt="Figma" width="30">
-
   <img src="./assests/ico/Gitlab.svg" alt="Gitlab" width="30">
-  
   <img src="./assests/ico/Excel.svg" alt="Github" width="30">
-
+  <img src="./assests/ico/SQL.svg" alt="SQL" width="30">
   <img src="./assests/ico/mongoDB.svg" alt="mongoDB" width="30">
-
+  <img src="./assests/ico/Python.svg" alt="Python" width="30">
+  <img src="./assests/ico/Tableau.svg" alt="Tableau" width="30">
+  <img src="./assests/ico/Power BI.svg" alt="PowerBI" width="30">
+  <img src="./assests/ico/openai.svg" alt="openai.svg" width="30">
+  <img src="./assests/ico/Tensorflow.svg" alt="Tensorflow" width="30">
+  <img src="./assests/ico/Jupyter notebook.svg" alt="Jupyter notebook" width="30">
 </div>
 
 ---
