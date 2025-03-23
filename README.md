@@ -2,9 +2,8 @@
  <img src='./images/banner.png' alt=banner>
 <div>
 
-<div align="center" font-size="30 px"> 
- <h1> 👋 Hi, I'm Nomaan Ansari! </h1>
-</div>
+
+<h1 align="center" font-size="30 px"> 👋 Hi, I'm Nomaan Ansari! </h1>
 
 
 I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
@@ -26,11 +25,7 @@ Feel free to explore my work, connect with me, or just say hi! 😊
 </p>
 
 
-## 🛠️ Skills
-
-## 🛠️ Skills
-
-## 🛠️ Skills
+## 🛠️ Skills 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
