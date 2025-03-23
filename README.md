@@ -3,7 +3,7 @@
 <div>
 
 
-# 👋 Hi, I'm [Nomaan Ansari]!
+# 👋 Hi, I'm Nomaan Ansari!
 
 I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
 
@@ -22,6 +22,24 @@ Feel free to explore my work, connect with me, or just say hi! 😊
 <p align="center">
   <img src="https://media.giphy.com/media/your-favorite-gif.gif" alt="Fun GIF" width="300"/>
 </p>
+
+
+## 🛠️ Skills
+
+### Programming Languages:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> MySQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="R" width="40" height="40"/> R  
+
+### Tools & Platforms:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> Tableau  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/> Power BI  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> Jupyter Notebooks  
+
+### Cloud & Big Data:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/> AWS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/> Google Cloud  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40"/> Apache Spark 
 
 
 ## 📜 Certifications
