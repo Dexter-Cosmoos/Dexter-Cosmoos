@@ -26,21 +26,13 @@ Technolgies
 
 <div style="display: flex; justify-content: center; gap: 10px;">
 
-  <div style="display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: white; border-radius: 50%; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="./assests/ico/Figma.svg" alt="Figma" width="30">
-  </div>
+  <img src="./assests/ico/Figma.svg" alt="Figma" width="30">
 
-  <div style="display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: white; border-radius: 50%; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="./assests/ico/gitlab.svg" alt="Gitlab" width="30">
-  </div>
+  <img src="./assests/ico/gitlab.svg" alt="Gitlab" width="30">
   
-  <div style="display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: white; border-radius: 50%; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="./assests/ico/Excel.svg" alt="Github" width="30">
-  </div>
-
-  <div style="display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: white; border-radius: 50%; padding: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-   <img src="./assests/ico/Intellij IDEA.svg" alt="Github" width="30">
-  </div>
+  <img src="./assests/ico/Excel.svg" alt="Github" width="30">
+  
+  <img src="./assests/ico/Intellij IDEA.svg" alt="Github" width="30">
 
 </div>
 
