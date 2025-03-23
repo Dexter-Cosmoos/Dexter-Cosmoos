@@ -24,7 +24,7 @@ Feel free to explore my work, connect with me, or just say hello!
 
 Technolgies
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 15px;">
 
   <img src="./assests/ico/Figma.svg" alt="Figma" width="30">
 
@@ -32,7 +32,7 @@ Technolgies
   
   <img src="./assests/ico/Excel.svg" alt="Github" width="30">
 
-  <img src="./assests/ico/Intellij IDEA.svg" alt="Github" width="30">
+  <img src="./assests/ico/Intellij IDEA.svg" alt="Intellij IDEA" width="30">
 
 </div>
 
