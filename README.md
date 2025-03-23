@@ -32,7 +32,7 @@ Technolgies
   
   <img src="./assests/ico/Excel.svg" alt="Github" width="30">
 
-  <img src="./assests/ico/IntelliJ IDEA.svg" alt="Intellij IDEA" width="30" gap="10 px">
+  <img src="./assests/ico/mongoDB.svg" alt="mongoDB" width="30">
 
 </div>
 
