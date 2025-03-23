@@ -1,3 +1,3 @@
 <div>
- <img src='.images/banner.png' alt=banner >
+ <img src='./images/banner.png' alt=banner >
 <div>
