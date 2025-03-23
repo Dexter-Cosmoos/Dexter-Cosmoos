@@ -28,10 +28,10 @@ Technolgies
 
   <img src="./assests/ico/Figma.svg" alt="Figma" width="30">
 
-  <img src="./assests/ico/gitlab.svg" alt="Gitlab" width="30">
+  <img src="./assests/ico/Gitlab.svg" alt="Gitlab" width="30">
   
   <img src="./assests/ico/Excel.svg" alt="Github" width="30">
-  
+
   <img src="./assests/ico/Intellij IDEA.svg" alt="Github" width="30">
 
 </div>
