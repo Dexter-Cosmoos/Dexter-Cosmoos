@@ -1,0 +1,5 @@
+![JetBrains ReSharper plugins Downloads](https://img.shields.io/resharper/dt/:packageName)
+![CII Best Practices](https://img.shields.io/cii/:metric/:projectId)
+![CII Security](https://img.shields.io/cii/:metric/:projectId)
+![CII Maintainability](https://img.shields.io/cii/:metric/:projectId)
+![CII Reliability](https://img.shields.io/cii/:metric/:projectId)
