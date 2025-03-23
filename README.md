@@ -2,7 +2,9 @@
  <img src='./images/banner.png' alt=banner>
 <div>
 
-<div align="center" font-size="30 px"> 👋 Hi, I'm Nomaan Ansari! </div>
+<div align="center" font-size="30 px"> 
+ <h1> 👋 Hi, I'm Nomaan Ansari! </h1>
+</div>
 
 
 I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
