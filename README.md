@@ -64,4 +64,8 @@ Or feel free to open an issue or PR on any of my repositories!
 
 ## 📈 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
+  
+ ![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+</div>
