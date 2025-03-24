@@ -44,7 +44,7 @@
 
 ### 📀 ‖ Languages & Technologies ‖ 
 
-<p align="left">
+<p align="center">
   <img src="./images/SVG/Figma.svg" alt="Figma" width="70" height="35">
   <img src="./images/SVG/Python.svg" alt="Python" width=70" height="35">
   <img src="./images/SVG/SQL.svg" alt="SQL" width="70" height="35">
