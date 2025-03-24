@@ -54,7 +54,7 @@
 
 ### 👀 ‖ Profile Views ‖
 
-<div align="center">
+<div align="left">
 
   <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="100px" height="100px"/>
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
