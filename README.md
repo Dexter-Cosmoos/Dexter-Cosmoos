@@ -8,32 +8,21 @@
  </a> Hii, I'm Nomaan [...DEXTER...]
 </h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Text Content -->
-  <div style="flex: 1;">
-    <p>
-      I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
-    </p>
-    <p>
-      🔭 **Currently Working On**: [**WalMart Dataset Project**](https://github.com/DexterCosmos/WalMart_DB)  
-      (_Analyzing sales, trends, and insights from WalMart's dataset._)
-    </p>
-    <p>
-      🌱 **Learning**: Exploring the world of **MongoDB** – diving deep into NoSQL databases and mastering data storage and retrieval.
-    </p>
-    <p>
-      💡 **Fun Fact**: "Life is useless, but coding makes it meaningful!" 😄
-    </p>
-    <p>
-      Feel free to explore my latest project, connect with me, or just say hello!
-    </p>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">  
+  <div style="flex: 1;">  
 
-  <!-- Image -->
-  <img 
-    src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" 
-    style="height: 200px; margin-left: 20px; align-self: center;" 
-    alt="Code Hacking GIF">
+   I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.  
+
+   🔭 **Currently Working On**: [**WalMart Dataset Project**](https://github.com/DexterCosmos/WalMart_DB)  
+    (_Analyzing sales, trends, and insights from WalMart's dataset._)  
+
+   🌱 **Learning**: Exploring the world of **MongoDB** – diving deep into NoSQL databases and mastering data storage and retrieval.  
+
+   💡 **Fun Fact**: "Life is useless, but coding makes it meaningful!" 😄  
+
+   Feel free to explore my latest project, connect with me, or just say hello!  
+  </div>  
+  <img src="./images/gif/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" style="height: 100px; align-self: flex-start;" alt="Code Hacking GIF">  
 </div>
 
 ---
