@@ -5,16 +5,20 @@
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="20px">
- </a> Hii, I'm Nomaan [...DEXTER...]
+ </a> Hii, I'm Nomaan ...DEXTER...
 </h1>
 
 <div align="center">
 
   ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoSize=auto&labelColor=343a40&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
+  ![Static Badge](https://img.shields.io/badge/Gitlab-bb3e03?style=for-the-badge&logo=Gitlab&logoColor=bb3e03&logoSize=auto&labelColor=000000&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
   ![Static Badge](https://img.shields.io/badge/github--copilot-black?style=for-the-badge&logo=githubcopilot&logoSize=auto&labelColor=343a40)
-
+  ![Static Badge](https://img.shields.io/badge/Instagram-ef476f?style=for-the-badge&logo=Instagram&logoColor=ef476f&logoSize=auto&labelColor=000000&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
+  ![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&labelColor=000000)
 
 </div>
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: left; gap: 20px;">  
   <div style="flex: 1;">  
@@ -52,6 +56,7 @@
 ### 👀 ‖ Profile Views ‖
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
+
   <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="100px" height="100px"/>
+  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
 </div>
