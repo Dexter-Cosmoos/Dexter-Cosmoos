@@ -28,20 +28,19 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: left; gap: 20px;">  
-  <div style="flex: 1;">  
+<div>  
 
-   I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.  
+  I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.  
 
-   🔭 **Currently Working On**: [**WalMart Dataset Project**](https://github.com/DexterCosmos/WalMart_DB)
+  🔭 **Currently Working On**: [**WalMart Dataset Project**](https://github.com/DexterCosmos/WalMart_DB)
 
-   🌱 **Learning**: Exploring the world of **MongoDB** – diving deep into NoSQL databases and mastering data storage and retrieval.  
+  🌱 **Learning**: Exploring the world of **MongoDB** – diving deep into NoSQL databases and mastering data storage and retrieval.  
 
-   💡 **Fun Fact**: "Life is useless, but coding makes it meaningful!" 😄  
+  💡 **Fun Fact**: "Life is useless, but coding makes it meaningful!" 😄  
 
-   Feel free to explore my latest project, connect with me, or just say hello! 
-  </div>
+  Feel free to explore my latest project, connect with me, or just say hello!
 </div>
+
 
 ---
 
