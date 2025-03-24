@@ -9,8 +9,7 @@
 </h1>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Text Content -->
-  <div style="flex: 1;">
+  <div>
     <p>
       I'm a <b>Data Analyst</b> passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
     </p>
@@ -29,10 +28,9 @@
   </div>
 
   <!-- Image -->
-  <img 
-    src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" 
-    style="height: 200px; margin-left: 40px; align-self: center;" 
-    alt="Code Hacking GIF">
+  <div>
+    <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" style="height: 100px width: 100px; margin-left: 20px; align-self: center;" alt="Code Hacking GIF">
+  </div>
 </div>
 
 ---
