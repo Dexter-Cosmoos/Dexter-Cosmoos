@@ -81,7 +81,7 @@
 
 ### 👀 ‖ Profile Views ‖
 
-*P.S. I’m busy cooking up some cool future projects—stay tuned! ⚡.*
+*P.S. I’m busy cooking up some cool future projects—stay tuned! ⚡*
 
 <div align="left">
   <img src="./images/gif/Internet Coding Sticker by top(node).gif" alt="GIF" width="100px" height="100px"/>  
