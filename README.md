@@ -5,7 +5,7 @@
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="25px">
- </a> Hii, I'm Nomaan ...DEXTER...
+ </a> Hello World!!, I'm Nomaan, ...The Data Analyst...
 </h1>
 
 <div align="center">
@@ -58,4 +58,5 @@
 
   <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="100px" height="100px"/>
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
+  <img src="./images/gif/Internet Coding Sticker by top(node).gif" alt="GIF" width="100px" height="100px"/>
 </div>
