@@ -11,11 +11,19 @@
 
 <div align="center">
 
-  ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoSize=auto&labelColor=343a40&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
-  ![Static Badge](https://img.shields.io/badge/Gitlab-bb3e03?style=for-the-badge&logo=Gitlab&logoColor=bb3e03&logoSize=auto&labelColor=000000&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
+  ![Static Badge](https://img.shields.io/badge/Github-%23343a40?style=for-the-badge&logo=refinedgithub&logoColor=ffffff&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Gitlab-%23FC6D26?style=for-the-badge&logo=gitlab&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Instagram-ef476f?style=for-the-badge&logo=Instagram&logoColor=ef476f&logoSize=auto&labelColor=000000&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
   ![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/WEB-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=%238DD6F9&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Replicate-%23343a40?style=for-the-badge&logo=replicate&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Replit-%23F26207?style=for-the-badge&logo=Replit&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/VScodium-%232F80ED?style=for-the-badge&logo=vscodium&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Codeium-%2309B6A2?style=for-the-badge&logo=codeium&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Proton--Mail-%236D4AFF?style=for-the-badge&logo=protonmail&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/.ENV-%23ECD53F?style=for-the-badge&logo=dotenv&labelColor=000000)
+
+
 </div>
 
 ---
