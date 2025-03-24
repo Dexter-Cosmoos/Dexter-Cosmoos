@@ -63,6 +63,8 @@
 ### 🔍 ‖ Git Stats ‖
 
 ![](https://nirzak-streak-stats.vercel.app/?user=DexterCosmos&theme=aura&hide_border=true)
+<img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="200px" height="200px"/>
+
 ![](https://github-readme-stats.vercel.app/api?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -80,7 +82,7 @@
 
 <div align="left">
 
-  <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="100px" height="100px"/>
+  
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
   <img src="./images/gif/Internet Coding Sticker by top(node).gif" alt="GIF" width="100px" height="100px"/>
 </div>
