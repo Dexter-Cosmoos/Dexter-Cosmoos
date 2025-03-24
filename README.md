@@ -25,7 +25,7 @@ Feel free to explore my latest project, connect with me, or just say hello!
 
 Languages & Technolgies
 
-<p align="center">
+<p align="left">
   <img src="./images/SVG/Figma.svg" alt="Figma" width="50" height="30">
   <img src="./images/SVG/Python.svg" alt="Python" width="50" height="30">
   <img src="./images/SVG/SQL.svg" alt="SQL" width="50" height="30">
