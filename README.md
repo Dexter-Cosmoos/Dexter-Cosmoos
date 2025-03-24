@@ -4,7 +4,7 @@
 <div>
 
 <h1 align="center">
- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="20px">
+ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="25px">
  </a> Hii, I'm Nomaan ...DEXTER...
 </h1>
 
