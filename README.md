@@ -72,6 +72,7 @@
 ### 💀 ‖ Github Contributions ‖
 
 <picture>
+  <img src="./images/gif/Internet Coding Sticker by top(node).gif" alt="GIF" width="100px" height="100px" align="top"/>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake.svg" />
@@ -84,7 +85,7 @@
 *I,m still counting and working on future projects.*
 
 <div align="left">
-  <img src="./images/gif/Internet Coding Sticker by top(node).gif" alt="GIF" width="100px" height="100px"/>
+  
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
 </div>
 
