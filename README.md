@@ -36,7 +36,7 @@
 
   💡 **Fun Fact**: "Life is useless, but coding makes it meaningful!" 😄  
 
-  Feel free to explore my latest project, connect with me, or just say hello!
+  *Feel free to explore my projects, connect with me, or just say hello!*
 </div>
 
 
@@ -45,15 +45,16 @@
 ### ‖ Languages & Technologies ‖ 
 
 <p align="center">
-  <img src="./images/SVG/Figma.svg" alt="Figma" width="70" height="35">
-  <img src="./images/SVG/Python.svg" alt="Python" width=70" height="35">
-  <img src="./images/SVG/SQL.svg" alt="SQL" width="70" height="35">
-  <img src="./images/SVG/Jupyter notebook.svg" alt="JN" width="70" height="35">
-  <img src="./images/SVG/Excel.svg" alt="Excel" width="70" height="35">
-  <img src="./images/SVG/Power BI.svg" alt="Power BI" width="70" height="35">
-  <img src="./images/SVG/Tableau.svg" alt="Tableau" width="70" height="35">
-  <img src="./images/SVG/Tensorflow.svg" alt="Tensorflow" width="70" height="35">
-  <img src="./images/SVG/mongoDB.svg" alt="MongoDB" width="70" height="35">
+  <img src="./images/svg/Figma.svg" alt="Figma" width="70" height="35">
+  <img src="./images/svg/Python.svg" alt="Python" width=70" height="35">
+  <img src="./images/svg/SQL.svg" alt="SQL" width="70" height="35">
+  <img src="./images/svg/Jupyter notebook.svg" alt="JN" width="70" height="35">
+  <img src="./images/svg/Excel.svg" alt="Excel" width="70" height="35">
+  <img src="./images/svg/Power BI.svg" alt="Power BI" width="70" height="35">
+  <img src="./images/svg/Tableau.svg" alt="Tableau" width="70" height="35">
+  <img src="./images/svg/Tensorflow.svg" alt="Tensorflow" width="70" height="35">
+  <img src="./images/svg/mongoDB.svg" alt="MongoDB" width="70" height="35">
+  <img src="./images/svg/windsurf.svg" alt="Windsurf" width="70" height="35">
 </p>
 
 ---
@@ -61,7 +62,7 @@
 ### 🔍 ‖ Git Stats ‖
 
 ![](https://nirzak-streak-stats.vercel.app/?user=DexterCosmos&theme=aura&hide_border=true)
-<img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="200px" height="200px"/>
+<img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="195px" height="195px"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -80,7 +81,7 @@
 
 ### 👀 ‖ Profile Views ‖
 
-*I,m still counting and working on features.*
+*I,m still counting and working on future projects.*
 
 <div align="left">
   <img src="./images/gif/Internet Coding Sticker by top(node).gif" alt="GIF" width="100px" height="100px"/>
