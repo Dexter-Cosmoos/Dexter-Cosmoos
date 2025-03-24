@@ -17,13 +17,11 @@
   ![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/WEB-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=%238DD6F9&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Replicate-%23343a40?style=for-the-badge&logo=replicate&labelColor=000000)
-  ![Static Badge](https://img.shields.io/badge/Replit-%23F26207?style=for-the-badge&logo=Replit&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/VScodium-%232F80ED?style=for-the-badge&logo=vscodium&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Codeium-%2309B6A2?style=for-the-badge&logo=codeium&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Proton--Mail-%236D4AFF?style=for-the-badge&logo=protonmail&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/.ENV-%23ECD53F?style=for-the-badge&logo=dotenv&labelColor=000000)
-
-
+  ![Static Badge](https://img.shields.io/badge/Replit-%23F26207?style=for-the-badge&logo=Replit&labelColor=000000)
 </div>
 
 ---
@@ -81,17 +79,15 @@
 ### 👀 ‖ Profile Views ‖
 
 <div align="left">
-
-  
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
   <img src="./images/gif/Internet Coding Sticker by top(node).gif" alt="GIF" width="100px" height="100px"/>
+  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
 </div>
 
 ---
 
 ### ☕ ‖ Buy Me A Coffee ‖
 
-*If you appreciate my projects and work, buy me a cup of coffee!* ☕
+*If you appreciate my projects and hardwork, buy me a cup of coffee!* ☕
 
 <a href="https://www.buymeacoffee.com/DexterCosmos" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
