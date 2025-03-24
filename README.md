@@ -42,7 +42,7 @@
 
 ---
 
-### 📀 ‖ Languages & Technologies ‖ 
+### ‖ Languages & Technologies ‖ 
 
 <p align="center">
   <img src="./images/SVG/Figma.svg" alt="Figma" width="70" height="35">
@@ -68,7 +68,7 @@
 
 ---
 
-### 💀 ‖ Snaky Github Contributions ‖
+### 💀 ‖ Github Contributions ‖
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake-dark.svg" />
@@ -97,4 +97,3 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
 </a>
 
----
