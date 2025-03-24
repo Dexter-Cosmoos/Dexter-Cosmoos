@@ -12,12 +12,17 @@
 I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
 
 
-- 🔭 Currently working on: WalMart dataset project
-- 🌱 Learning: looking ahead mongoDB 
-- 💡 Fun fact: useless life
+- 🔭 **Currently Working On**:  
+  [**WalMart Dataset Project**](https://github.com)_Analyzing sales, trends, and insights from WalMart's dataset._
+
+- 🌱 **Learning**:  
+  Exploring the world of **MongoDB** – diving deep into NoSQL databases and mastering data storage and retrieval.
+
+- 💡 **Fun Fact**:  
+  "Life is useless, but coding makes it meaningful!" 😄
 
 
-Feel free to explore my work, connect with me, or just say hello!
+Feel free to explore my latest project, connect with me, or just say hello!
 
 ---
 
