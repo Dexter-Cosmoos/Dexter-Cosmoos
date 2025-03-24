@@ -90,7 +90,7 @@
 
 ### ☕ ‖ Buy Me A Coffee ‖
 
-If you appreciate my projects and work, buy me a cup of coffee! ☕
+*If you appreciate my projects and work, buy me a cup of coffee!* ☕
 
 <a href="https://www.buymeacoffee.com/DexterCosmos" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
