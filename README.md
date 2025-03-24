@@ -5,7 +5,8 @@
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="25px">
- </a> Hello World!!, I'm Nomaan, ...The Data Analyst...
+ </a> Hello World !!! <br>
+ </a>I'm Nomaan, ...The Data Analyst...
 </h1>
 
 <div align="center">
@@ -49,6 +50,14 @@
   <img src="./images/SVG/Tensorflow.svg" alt="Tensorflow" width="70" height="35">
   <img src="./images/SVG/mongoDB.svg" alt="MongoDB" width="70" height="35">
 </p>
+
+---
+
+### 🔍 ‖ GitHub Stats ‖
+
+![](https://nirzak-streak-stats.vercel.app/?user=DexterCosmos&theme=aura&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
