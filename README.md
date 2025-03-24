@@ -8,21 +8,27 @@
  </a> Hii, I'm Nomaan [...DEXTER...]
 </h1>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">  
+<div align="center">
+
+  ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoSize=auto&labelColor=343a40&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
+  ![Static Badge](https://img.shields.io/badge/github--copilot-black?style=for-the-badge&logo=githubcopilot&logoSize=auto&labelColor=343a40)
+
+
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: left; gap: 20px;">  
   <div style="flex: 1;">  
 
    I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.  
 
-   🔭 **Currently Working On**: [**WalMart Dataset Project**](https://github.com/DexterCosmos/WalMart_DB)  
-    (_Analyzing sales, trends, and insights from WalMart's dataset._)  
+   🔭 **Currently Working On**: [**WalMart Dataset Project**](https://github.com/DexterCosmos/WalMart_DB)
 
    🌱 **Learning**: Exploring the world of **MongoDB** – diving deep into NoSQL databases and mastering data storage and retrieval.  
 
    💡 **Fun Fact**: "Life is useless, but coding makes it meaningful!" 😄  
 
-   Feel free to explore my latest project, connect with me, or just say hello!  
-  </div>  
-  <img src="./images/gif/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" style="height: 100px; align-self: flex-start;" alt="Code Hacking GIF">  
+   Feel free to explore my latest project, connect with me, or just say hello! 
+  </div>
 </div>
 
 ---
@@ -30,15 +36,15 @@
 ### ‖ Languages & Technolgies ‖ 
 
 <p align="left">
-  <img src="./images/SVG/Figma.svg" alt="Figma" width="80" height="50">
-  <img src="./images/SVG/Python.svg" alt="Python" width=80" height="50">
-  <img src="./images/SVG/SQL.svg" alt="SQL" width="80" height="50">
-  <img src="./images/SVG/Excel.svg" alt="Excel" width="80" height="50">
-  <img src="./images/SVG/Power BI.svg" alt="Power BI" width="80" height="50">
-  <img src="./images/SVG/mongoDB.svg" alt="MongoDB" width="80" height="50">
-  <img src="./images/SVG/Tableau.svg" alt="Tableau" width="80" height="50">
-  <img src="./images/SVG/Tensorflow.svg" alt="Tensorflow" width="80" height="50">
-  <img src="./images/SVG/Jupyter notebook.svg" alt="JN" width="80" height="50">
+  <img src="./images/SVG/Figma.svg" alt="Figma" width="70" height="35">
+  <img src="./images/SVG/Python.svg" alt="Python" width=70" height="35">
+  <img src="./images/SVG/SQL.svg" alt="SQL" width="70" height="35">
+  <img src="./images/SVG/Jupyter notebook.svg" alt="JN" width="70" height="35">
+  <img src="./images/SVG/Excel.svg" alt="Excel" width="70" height="35">
+  <img src="./images/SVG/Power BI.svg" alt="Power BI" width="70" height="35">
+  <img src="./images/SVG/Tableau.svg" alt="Tableau" width="70" height="35">
+  <img src="./images/SVG/Tensorflow.svg" alt="Tensorflow" width="70" height="35">
+  <img src="./images/SVG/mongoDB.svg" alt="MongoDB" width="70" height="35">
 </p>
 
 ---
@@ -47,4 +53,5 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
+  <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="100px" height="100px"/>
 </div>
