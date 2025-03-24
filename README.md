@@ -9,18 +9,20 @@
 </h1>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+  <!-- Text Content -->
+  <div style="flex: 1;">
     <p>
-      I'm a <b>Data Analyst</b> passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
+      I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
     </p>
     <p>
-     🔭 <b>Currently Working On: </b> <b> WalMart Dataset </b> Analyzing sales, trends, and insights from WalMart's dataset.
+      🔭 **Currently Working On**: [**WalMart Dataset Project**](https://github.com/DexterCosmos/WalMart_DB)  
+      (_Analyzing sales, trends, and insights from WalMart's dataset._)
     </p>
     <p>
-      🌱 <b>Learning: </b> Exploring the world of <b>MongoDB</b> – diving deep into NoSQL databases and mastering data storage and retrieval.
+      🌱 **Learning**: Exploring the world of **MongoDB** – diving deep into NoSQL databases and mastering data storage and retrieval.
     </p>
     <p>
-      💡 <b>Fun Fact: </b> "Life is useless, but coding makes it meaningful!" 😄
+      💡 **Fun Fact**: "Life is useless, but coding makes it meaningful!" 😄
     </p>
     <p>
       Feel free to explore my latest project, connect with me, or just say hello!
@@ -28,9 +30,10 @@
   </div>
 
   <!-- Image -->
-  <div>
-    <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" style="height: 100px width: 100px; margin-left: 20px; align-self: center;" alt="Code Hacking GIF">
-  </div>
+  <img 
+    src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" 
+    style="height: 200px; margin-left: 20px; align-self: center;" 
+    alt="Code Hacking GIF">
 </div>
 
 ---
