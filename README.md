@@ -53,11 +53,19 @@
 
 ---
 
-### 🔍 ‖ GitHub Stats ‖
+### 🔍 ‖ Git Stats ‖
 
 ![](https://nirzak-streak-stats.vercel.app/?user=DexterCosmos&theme=aura&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake.svg" />
+</picture>
 
 ---
 
