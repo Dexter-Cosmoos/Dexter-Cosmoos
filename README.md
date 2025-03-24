@@ -12,7 +12,7 @@
 I'm a **Data Analyst** passionate about turning raw data into actionable insights. With expertise in data visualization, statistical analysis, and predictive modeling, I help businesses make informed decisions.
 
 
-🔭 **Currently Working On**: [**WalMart Dataset Project**](https://github.com/DexterCosmos/WalMart_DB)_Analyzing sales, trends, and insights from WalMart's dataset._
+🔭 **Currently Working On**: [**WalMart Dataset Project**](https://github.com/DexterCosmos/WalMart_DB) _Analyzing sales, trends, and insights from WalMart's dataset._
 
 🌱 **Learning**: Exploring the world of **MongoDB** – diving deep into NoSQL databases and mastering data storage and retrieval.
 
