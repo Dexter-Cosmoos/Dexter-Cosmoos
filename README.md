@@ -6,7 +6,7 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="25px">
  </a> Hello World !!! <br>
- </a>I'm Nomaan, ...The Data Analyst...
+ </a>I'm Dexter, ...The Data Analyst...
 </h1>
 
 <div align="center">
