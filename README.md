@@ -42,7 +42,7 @@
 
 ---
 
-### ‖ Languages & Technolgies ‖ 
+### 📀 ‖ Languages & Technologies ‖ 
 
 <p align="left">
   <img src="./images/SVG/Figma.svg" alt="Figma" width="70" height="35">
@@ -68,6 +68,8 @@
 
 ---
 
+### 💀 ‖ Snaky Github Contributions ‖
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake.svg" />
@@ -78,6 +80,8 @@
 
 ### 👀 ‖ Profile Views ‖
 
+*I,m still counting and working on features.*
+
 <div align="left">
   <img src="./images/gif/Internet Coding Sticker by top(node).gif" alt="GIF" width="100px" height="100px"/>
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
@@ -87,7 +91,7 @@
 
 ### ☕ ‖ Buy Me A Coffee ‖
 
-*If you appreciate my projects and hardwork, buy me a cup of coffee!* ☕
+*If you appreciate my projects, buy me a cup of coffee!* ☕
 
 <a href="https://www.buymeacoffee.com/DexterCosmos" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
