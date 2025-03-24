@@ -12,10 +12,9 @@
 
   ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoSize=auto&labelColor=343a40&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
   ![Static Badge](https://img.shields.io/badge/Gitlab-bb3e03?style=for-the-badge&logo=Gitlab&logoColor=bb3e03&logoSize=auto&labelColor=000000&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
-  ![Static Badge](https://img.shields.io/badge/github--copilot-black?style=for-the-badge&logo=githubcopilot&logoSize=auto&labelColor=343a40)
   ![Static Badge](https://img.shields.io/badge/Instagram-ef476f?style=for-the-badge&logo=Instagram&logoColor=ef476f&logoSize=auto&labelColor=000000&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
   ![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&labelColor=000000)
-
+  ![Static Badge](https://img.shields.io/badge/WEB-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=%238DD6F9&labelColor=000000)
 </div>
 
 ---
