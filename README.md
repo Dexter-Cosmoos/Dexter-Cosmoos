@@ -45,16 +45,16 @@
 ### ‖ Languages & Technologies ‖ 
 
 <p align="center">
-  <img src="./images/svg/Figma.svg" alt="Figma" width="70" height="35">
-  <img src="./images/svg/Python.svg" alt="Python" width=70" height="35">
-  <img src="./images/svg/SQL.svg" alt="SQL" width="70" height="35">
-  <img src="./images/svg/Jupyter notebook.svg" alt="JN" width="70" height="35">
-  <img src="./images/svg/Excel.svg" alt="Excel" width="70" height="35">
-  <img src="./images/svg/Power BI.svg" alt="Power BI" width="70" height="35">
-  <img src="./images/svg/Tableau.svg" alt="Tableau" width="70" height="35">
-  <img src="./images/svg/Tensorflow.svg" alt="Tensorflow" width="70" height="35">
-  <img src="./images/svg/mongoDB.svg" alt="MongoDB" width="70" height="35">
-  <img src="./images/svg/windsurf.svg" alt="Windsurf" width="70" height="35">
+  <img src="./images/ico/Figma.svg" alt="Figma" width="70" height="35">
+  <img src="./images/ico/Python.svg" alt="Python" width=70" height="35">
+  <img src="./images/ico/SQL.svg" alt="SQL" width="70" height="35">
+  <img src="./images/ico/Jupyter notebook.svg" alt="JN" width="70" height="35">
+  <img src="./images/ico/Excel.svg" alt="Excel" width="70" height="35">
+  <img src="./images/ico/Power BI.svg" alt="Power BI" width="70" height="35">
+  <img src="./images/ico/Tableau.svg" alt="Tableau" width="70" height="35">
+  <img src="./images/ico/Tensorflow.svg" alt="Tensorflow" width="70" height="35">
+  <img src="./images/ico/mongoDB.svg" alt="MongoDB" width="70" height="35">
+  <img src="./images/ico/windsurf.svg" alt="Windsurf" width="70" height="35">
 </p>
 
 ---
