@@ -19,7 +19,6 @@
   ![Static Badge](https://img.shields.io/badge/Replicate-%23343a40?style=for-the-badge&logo=replicate&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/VScodium-%232F80ED?style=for-the-badge&logo=vscodium&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Codeium-%2309B6A2?style=for-the-badge&logo=codeium&labelColor=000000)
-  ![Static Badge](https://img.shields.io/badge/Proton--Mail-%236D4AFF?style=for-the-badge&logo=protonmail&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Devbox-%23FFE033?style=for-the-badge&logo=devbox&logoColor=%23FFE033&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Replit-%23F26207?style=for-the-badge&logo=Replit&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&labelColor=000000)
@@ -27,7 +26,7 @@
   ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Matplotlib-%2319E57F?style=for-the-badge&logo=matillion&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Beautifulsoup4-%23E31E52?style=for-the-badge&logo=bukalapak&logoColor=%23E31E52&logoSize=2&labelColor=000000)
-  ![Static Badge](https://img.shields.io/badge/scipy-%238CAAE6?style=for-the-badge&logo=scipy&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Canva-%23F8C300?style=for-the-badge&logo=aurelia&logoColor=%23F8C300&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=000000)  
 </div>
