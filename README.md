@@ -52,7 +52,7 @@
 
 ### ‖ Languages & Technologies ‖ 
 
-<p align="left" style="margin-top: 400px; margin-bottom: 20px">
+<p align="left">
   <img src="./images/ico/Figma.svg" alt="Figma" width="70" height="35">
   <img src="./images/ico/Python.svg" alt="Python" width=70" height="35">
   <img src="./images/ico/SQL.svg" alt="SQL" width="70" height="35">
