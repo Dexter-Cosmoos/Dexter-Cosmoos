@@ -26,10 +26,10 @@
   ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Matplotlib-%2319E57F?style=for-the-badge&logo=matillion&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Seaborn-%23635BFF?style=for-the-badge&logo=stripe&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Beautifulsoup4-%23E31E52?style=for-the-badge&logo=bukalapak&logoColor=%23E31E52&logoSize=2&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/scipy-%238CAAE6?style=for-the-badge&logo=scipy&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&labelColor=000000)
-  ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=000000)
-
+  ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=000000)  
 </div>
 
 ---
