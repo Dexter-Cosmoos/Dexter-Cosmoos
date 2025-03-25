@@ -66,13 +66,28 @@
 
 ---
 
-### 🔍 ‖ Git Stats ‖
+### 🔍 ‖ GitHub Stats ‖
+
+Overall github stats and 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Dexter-Cosmoos&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)
 <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="195px" height="195px"/>
 
-![](https://github-readme-stats.vercel.app/api?username=Dexter-Cosmoos&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-Cosmoos&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&layout=compact)
+<div>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-Cosmoos&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&layout=compact)
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Dexter-Cosmoos&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Dexter-Cosmoos&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_border=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dexter-Cosmoos&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_border=true&include_all_commits=true" />
+  </picture>
+</div>
 
 
 ---
@@ -89,7 +104,7 @@
 
 ### 👀 ‖ Profile Views ‖
 
-*P.S. I’m busy cooking up some cool future projects—stay tuned! ⚡*
+*P.S. I’m busy cooking up some cool future projects - stay tuned! ⚡*
 
 <div align="left">
   <img src="./images/gif/Internet Coding Sticker by top(node).gif" alt="GIF" width="100px" height="100px"/>  
@@ -111,4 +126,3 @@
 <div align="center" style="font-size: 20px; margin-top: 20px; margin-bottom: 20px">
   <b> ↓↓ Scroll Down for latest pins ↓↓ </b>
 </div>
-
