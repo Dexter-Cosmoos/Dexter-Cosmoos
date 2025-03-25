@@ -108,7 +108,7 @@
 
 ---
 
-<div align="center" style="font-size: 20px; margin-top: 20px">
+<div align="center" style="font-size: 20px; margin-top: 20px; margin-bottom: 20px">
   <b> ↓↓ Scroll Down for latest pins ↓↓ </b>
 </div>
 
