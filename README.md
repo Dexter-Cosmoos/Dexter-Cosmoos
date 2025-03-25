@@ -9,7 +9,7 @@
  </a>I'm Dexter, ...The Data Analyst...
 </h1>
 
-<div align="left">
+<div align="center">
 
   ![Static Badge](https://img.shields.io/badge/Github-%23343a40?style=for-the-badge&logo=refinedgithub&logoColor=ffffff&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/gitlab-bc3908?style=for-the-badge&logo=gitlab&logoColor=bc3908&labelColor=000000)
@@ -52,7 +52,7 @@
 
 ### ‖ Languages & Technologies ‖ 
 
-<p align="left" style="margin-top: 40px; margin-bottom: 20px">
+<p align="left" style="margin-top: 400px; margin-bottom: 20px">
   <img src="./images/ico/Figma.svg" alt="Figma" width="70" height="35">
   <img src="./images/ico/Python.svg" alt="Python" width=70" height="35">
   <img src="./images/ico/SQL.svg" alt="SQL" width="70" height="35">
