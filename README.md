@@ -69,20 +69,21 @@
 
 ### 🔍 ‖ Git Stats ‖
 
-![](https://nirzak-streak-stats.vercel.app/?user=DexterCosmos&theme=aura&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Dexter-Cosmoos&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)
 <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="195px" height="195px"/>
 
-![](https://github-readme-stats.vercel.app/api?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterCosmos&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Dexter-Cosmoos&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-Cosmoos&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&layout=compact)
+
 
 ---
 
 ### 💀 ‖ Github Contributions ‖
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DexterCosmos/DexterCosmos/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dexter-Cosmoos/Dexter-Cosmoos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dexter-Cosmoos/Dexter-Cosmoos/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dexter-Cosmoos/Dexter-Cosmoos/output/github-snake.svg" />
 </picture>
 
 ---
