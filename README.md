@@ -12,7 +12,7 @@
 <div align="center">
 
   ![Static Badge](https://img.shields.io/badge/Github-%23343a40?style=for-the-badge&logo=refinedgithub&logoColor=ffffff&labelColor=000000)
-  ![Static Badge](https://img.shields.io/badge/Gitlab-%23FC6D26?style=for-the-badge&logo=gitlab&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/gitlab-bc3908?style=for-the-badge&logo=gitlab&logoColor=bc3908&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Instagram-ef476f?style=for-the-badge&logo=Instagram&logoColor=ef476f&logoSize=auto&labelColor=000000&link=right%2Fhttps%3A%2F%2Fgithub.com%2FDexterCosmos)
   ![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/WEB-%238DD6F9?style=for-the-badge&logo=webpack&logoColor=%238DD6F9&labelColor=000000)
@@ -22,6 +22,14 @@
   ![Static Badge](https://img.shields.io/badge/Proton--Mail-%236D4AFF?style=for-the-badge&logo=protonmail&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/.ENV-%23ECD53F?style=for-the-badge&logo=dotenv&labelColor=000000)
   ![Static Badge](https://img.shields.io/badge/Replit-%23F26207?style=for-the-badge&logo=Replit&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Matplotlib-%2319E57F?style=for-the-badge&logo=matillion&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Seaborn-%23635BFF?style=for-the-badge&logo=stripe&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/scipy-%238CAAE6?style=for-the-badge&logo=scipy&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&labelColor=000000)
+  ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=000000)
+
 </div>
 
 ---
