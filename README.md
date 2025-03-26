@@ -76,17 +76,6 @@ Overall github stats and
 <div>
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dexter-Cosmoos&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&layout=compact)
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Dexter-Cosmoos&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Dexter-Cosmoos&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_border=true&include_all_commits=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Dexter-Cosmoos&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_border=true&include_all_commits=true" />
-  </picture>
 </div>
 
 
