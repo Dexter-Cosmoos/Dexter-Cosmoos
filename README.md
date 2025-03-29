@@ -68,7 +68,7 @@
 
 ### 🔍 ‖ GitHub Stats ‖
 
-Overall github stats and 
+*Overall github stats and contributions*
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Dexter-Cosmoos&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)
 <img src="./images/gif/Code Hacking GIF by Pizza Ninjas.gif" alt="GIF" width="195px" height="195px"/>
